@@ -1,2 +1,3 @@
 # Music-Player
-A simple music player using python.
+
+This is a python mp3 player made using Tkinter Gui library.
