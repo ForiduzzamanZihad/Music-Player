@@ -1,0 +1,3 @@
+Pillow==8.20.
+psycopg2==2.8.6
+pygame==2.0.1
